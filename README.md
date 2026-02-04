@@ -9,7 +9,7 @@ Performed data mining using WEKA on a single real-world dataset to understand ba
 Implementation of various data preprocessing operations on a large dataset using Python.
 
 **Experiment 3:**
-
+Study and Implementation of the Apriori Algorithm for Frequent Itemset Mining
 ---
 
 ## Author
